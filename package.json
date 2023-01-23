@@ -2,7 +2,7 @@
   "name": "202301-w3ch1-lluis-filella",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "default": "index.js",
   "type": "module",
   "scripts": {
     "prebuild:dev": "rimraf dist/",
