@@ -1,1 +1,1 @@
-const a = 4;
+const characters = "will be";

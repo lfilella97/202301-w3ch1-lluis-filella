@@ -2,7 +2,6 @@
   "name": "202301-w3ch1-lluis-filella",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
   "scripts": {
     "prebuild:dev": "rimraf dist/",
     "build:dev": "parcel src/index.html",
